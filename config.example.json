@@ -1,0 +1,10 @@
+{
+  "email": "you@163.com",
+  "auth_code": "在邮箱设置里生成的客户端授权码（不是邮箱密码）",
+  "from_addr": "sender@example.com",
+  "reports_dir": "~/选股报告",
+  "imap_host": "imap.163.com",
+  "imap_port": 993,
+  "interval_sec": 300,
+  "lookback_days": 4
+}
